@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LeafScan",
-    "slug": "leaf-scan",
+    "name": "leafscan",
+    "slug": "leafscan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -46,8 +46,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "7338c38f-4719-4dbe-b249-9a05e90519e9"
+        "projectId": "3b29ce34-c388-4967-9cdb-af8a6de64800"
       }
-    }
+    },
+    "owner": "ayeshafahim"
   }
 }
